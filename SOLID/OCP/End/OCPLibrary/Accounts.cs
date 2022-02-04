@@ -11,10 +11,19 @@ namespace OCPLibrary{
             output.FirstName=person.FirstName;
             output.LastName = person.LastName;
             output.EmailAddress=$"{ person.FirstName.Substring(0,1)}{person.LastName}@gmail.com";
-           if (person.TypeOfEmployee==EmpoyeeType.Manager)
-           {
-               output.IsManager=true;
-           }           
+            switch (person.TypeOfEmployee)
+            {
+                case EmpoyeeType.staff:
+                    break;
+                case EmpoyeeType.Manager:
+                    output.IsManager=true;
+                    break;
+                case EmpoyeeType.Excecutive:
+                    output.IsManager=true;
+                    output.ISExecutive=true;
+                    break;
+            }
+
             return output;
         }
 

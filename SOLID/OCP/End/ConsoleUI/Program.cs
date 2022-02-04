@@ -12,7 +12,7 @@ namespace ConsoleUI
             {
                 new PersonModel {FirstName ="Mario", LastName="Pratama"},
                 new PersonModel {FirstName="Ahmad", LastName="Fauzan", TypeOfEmployee=EmpoyeeType.Manager},
-                new PersonModel{FirstName="Dery", LastName="Ardiansyah"}
+                new PersonModel{FirstName="Dery", LastName="Ardiansyah", TypeOfEmployee=EmpoyeeType.Excecutive}
             };
 
             List<EmployeeModel> employees = new List<EmployeeModel>();
@@ -23,7 +23,7 @@ namespace ConsoleUI
             }
 
             foreach ( var emp in employees){
-                Console.WriteLine ($"{emp.FirstName}{emp.LastName} : {emp.EmailAddress} isManager: {emp.IsManager}");
+                Console.WriteLine ($"{emp.FirstName}{emp.LastName} : {emp.EmailAddress} isManager: {emp.IsManager} IsExecutive: {emp.ISExecutive}");
             }
 
         }

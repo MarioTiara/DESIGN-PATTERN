@@ -7,5 +7,6 @@ namespace OCPLibrary
     {
         staff,
         Manager,
+        Excecutive,
     }
 }
