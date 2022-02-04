@@ -5,25 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace OCPLibrary{
-    public class Accounts{
-        public EmployeeModel Create (PersonModel person){
+    public class Accounts:IAccounts{
+        public EmployeeModel Create (IApplicantModel person){
             EmployeeModel output = new EmployeeModel();
             output.FirstName=person.FirstName;
             output.LastName = person.LastName;
             output.EmailAddress=$"{ person.FirstName.Substring(0,1)}{person.LastName}@gmail.com";
-            switch (person.TypeOfEmployee)
-            {
-                case EmpoyeeType.staff:
-                    break;
-                case EmpoyeeType.Manager:
-                    output.IsManager=true;
-                    break;
-                case EmpoyeeType.Excecutive:
-                    output.IsManager=true;
-                    output.ISExecutive=true;
-                    break;
-            }
-
             return output;
         }
 

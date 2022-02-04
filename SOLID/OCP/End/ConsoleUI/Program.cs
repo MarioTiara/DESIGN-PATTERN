@@ -8,18 +8,17 @@ namespace ConsoleUI
     {
         static void Main(string[] args)
         {
-            List<PersonModel> applicatns = new List<PersonModel>()
+            List<IApplicantModel> applicatns = new List<IApplicantModel>()
             {
                 new PersonModel {FirstName ="Mario", LastName="Pratama"},
-                new PersonModel {FirstName="Ahmad", LastName="Fauzan", TypeOfEmployee=EmpoyeeType.Manager},
-                new PersonModel{FirstName="Dery", LastName="Ardiansyah", TypeOfEmployee=EmpoyeeType.Excecutive}
+                new ManagerModel {FirstName="Ahmad", LastName="Fauzan"},
+                new PersonModel{FirstName="Dery", LastName="Ardiansyah"}
             };
 
             List<EmployeeModel> employees = new List<EmployeeModel>();
-            Accounts accountsProcessor= new Accounts();
 
             foreach ( var person in applicatns){
-                employees.Add(accountsProcessor.Create(person));
+                employees.Add(person.AccountProcessor.Create(person));
             }
 
             foreach ( var emp in employees){

@@ -3,10 +3,8 @@ using System.Collections.Generic;
 
 namespace OCPLibrary 
 {
-    public enum EmpoyeeType 
+    public interface IAccounts
     {
-        staff,
-        Manager,
-        Excecutive,
+        EmployeeModel Create (IApplicantModel person);
     }
 }
