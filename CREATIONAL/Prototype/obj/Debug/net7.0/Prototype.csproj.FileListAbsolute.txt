@@ -1,0 +1,15 @@
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\bin\Debug\net7.0\Prototype.exe
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\bin\Debug\net7.0\Prototype.deps.json
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\bin\Debug\net7.0\Prototype.runtimeconfig.json
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\bin\Debug\net7.0\Prototype.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\bin\Debug\net7.0\Prototype.pdb
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\Prototype.csproj.AssemblyReference.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\Prototype.AssemblyInfoInputs.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\Prototype.AssemblyInfo.cs
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\Prototype.csproj.CoreCompileInputs.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\Prototype.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\refint\Prototype.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\Prototype.pdb
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\Prototype.genruntimeconfig.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\Prototype\obj\Debug\net7.0\ref\Prototype.dll
