@@ -1,0 +1,15 @@
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\bin\Debug\net7.0\AbstractFactory.exe
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\bin\Debug\net7.0\AbstractFactory.deps.json
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\bin\Debug\net7.0\AbstractFactory.runtimeconfig.json
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\bin\Debug\net7.0\AbstractFactory.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\bin\Debug\net7.0\AbstractFactory.pdb
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.AssemblyReference.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\AbstractFactory.AssemblyInfo.cs
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\AbstractFactory.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\refint\AbstractFactory.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\AbstractFactory.pdb
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\AbstractFactory.genruntimeconfig.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\CREATIONAL\AbstractFactory\obj\Debug\net7.0\ref\AbstractFactory.dll
