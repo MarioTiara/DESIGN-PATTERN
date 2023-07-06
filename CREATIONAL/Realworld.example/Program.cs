@@ -1,9 +1,9 @@
-﻿using Realworld.example.Factory;
+﻿using Realworld.example.builder;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        new Client().Main();
+        new Main().Run();
     }
 }
