@@ -6,4 +6,4 @@ Adapter lets classes work together that couldn't otherwise because of incompatib
 - It decouples the client from the implemented interface. 
 - The client doesn't have to be modified each time it needs to operate againts a different interface as the adapter is encapsulated. 
 
-!Screenshot from 2023-07-15 07-44-17.png
+![""] (Screenshot from 2023-07-15 07-44-17.png)
