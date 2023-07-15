@@ -1,0 +1,15 @@
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/bin/Debug/net6.0/Adapter.Pattern
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/bin/Debug/net6.0/Adapter.Pattern.deps.json
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/bin/Debug/net6.0/Adapter.Pattern.runtimeconfig.json
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/bin/Debug/net6.0/Adapter.Pattern.dll
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/bin/Debug/net6.0/ref/Adapter.Pattern.dll
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/bin/Debug/net6.0/Adapter.Pattern.pdb
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/obj/Debug/net6.0/Adapter.Pattern.csproj.AssemblyReference.cache
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/obj/Debug/net6.0/Adapter.Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/obj/Debug/net6.0/Adapter.Pattern.AssemblyInfoInputs.cache
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/obj/Debug/net6.0/Adapter.Pattern.AssemblyInfo.cs
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/obj/Debug/net6.0/Adapter.Pattern.csproj.CoreCompileInputs.cache
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/obj/Debug/net6.0/Adapter.Pattern.dll
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/obj/Debug/net6.0/ref/Adapter.Pattern.dll
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/obj/Debug/net6.0/Adapter.Pattern.pdb
+/home/mario/Desktop/Code/DESIGN-PATTERN/STRUCTURAL/source/Adapter.Pattern/obj/Debug/net6.0/Adapter.Pattern.genruntimeconfig.cache
