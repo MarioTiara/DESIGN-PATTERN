@@ -1,0 +1,15 @@
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\bin\Debug\net7.0\Example.MessageSender.exe
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\bin\Debug\net7.0\Example.MessageSender.deps.json
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\bin\Debug\net7.0\Example.MessageSender.runtimeconfig.json
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\bin\Debug\net7.0\Example.MessageSender.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\bin\Debug\net7.0\Example.MessageSender.pdb
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\Example.MessageSender.csproj.AssemblyReference.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\Example.MessageSender.GeneratedMSBuildEditorConfig.editorconfig
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\Example.MessageSender.AssemblyInfoInputs.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\Example.MessageSender.AssemblyInfo.cs
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\Example.MessageSender.csproj.CoreCompileInputs.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\Example.MessageSender.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\refint\Example.MessageSender.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\Example.MessageSender.pdb
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\Example.MessageSender.genruntimeconfig.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\Example.MessageSender\obj\Debug\net7.0\ref\Example.MessageSender.dll
