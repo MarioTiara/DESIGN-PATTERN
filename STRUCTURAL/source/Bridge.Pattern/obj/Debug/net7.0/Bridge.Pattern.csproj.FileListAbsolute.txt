@@ -1,0 +1,15 @@
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\bin\Debug\net7.0\Bridge.Pattern.exe
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\bin\Debug\net7.0\Bridge.Pattern.deps.json
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\bin\Debug\net7.0\Bridge.Pattern.runtimeconfig.json
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\bin\Debug\net7.0\Bridge.Pattern.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\bin\Debug\net7.0\Bridge.Pattern.pdb
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\Bridge.Pattern.csproj.AssemblyReference.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\Bridge.Pattern.GeneratedMSBuildEditorConfig.editorconfig
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\Bridge.Pattern.AssemblyInfoInputs.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\Bridge.Pattern.AssemblyInfo.cs
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\Bridge.Pattern.csproj.CoreCompileInputs.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\Bridge.Pattern.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\refint\Bridge.Pattern.dll
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\Bridge.Pattern.pdb
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\Bridge.Pattern.genruntimeconfig.cache
+E:\MPratama\Code\Design-pattern\DESIGN-PATTERN\STRUCTURAL\source\Bridge.Pattern\obj\Debug\net7.0\ref\Bridge.Pattern.dll
